@@ -11,3 +11,4 @@ CREATE TABLE `category` (
         `level` int(11) NOT NULL,
         PRIMARY KEY (`id`)
        )
+
